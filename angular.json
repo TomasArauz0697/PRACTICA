@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WORMHOLE"
+    }
+  },
+  "defaultProject": "WORMHOLE",
+  "cli": {
+    "analytics": false
+  }
 }
